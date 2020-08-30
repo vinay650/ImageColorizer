@@ -12,3 +12,4 @@ d) numpy
    
 NOTE : make sure to do the required changes in train and test path and number of batches to train on.
  
+ 
